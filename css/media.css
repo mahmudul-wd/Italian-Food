@@ -1,0 +1,517 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+     /*header start*/
+.menu {
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    z-index: 1;
+}
+    /*header end*/
+     /*banner start*/
+
+.b_content {
+    padding: 130px 0 90px 0;
+}
+.bc_img a img {
+    width: 25%;
+}
+.b_content h1 {
+      padding: 0;
+    margin: 0;
+    font-size: 75px;
+}
+.b_content h2 {
+    padding-bottom: 18px;
+    font-size: 18px;
+}
+.b_content p {
+    padding-top: 22px;
+     padding-right: 0;
+     position: relative;
+    z-index: 5;
+}
+.b_img1 {
+   width: 60%;
+    top: 30px;
+    right: 15px;
+}
+.b_img2 {
+   width: 50%;
+    left: 0;
+    top: 453px;
+}
+.b_img3 {
+    width: 48%;
+    top: 275px;
+    right: 0;
+}
+   /*banner end*/
+    /*new food start*/
+.common_hdig h1 {
+    font-size: 58px;
+    line-height: 48px;
+}
+.s_content {
+    margin: 10px;
+    padding-top: 0;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+   /*new food end*/
+    /*about us start*/
+.a_us_title h1 {
+    font-size: 58px;
+}
+   /*about us end*/
+    /*discount start*/
+.discount {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.d_img {
+    padding-top: 40px;
+}
+.d_content h2 {
+    margin: 35px 0 0 0;
+    padding: 0;
+    font-size: 25px;
+    font-weight: 600;
+}
+.d_content p {
+   padding: 11px 0px 10px 0;
+}
+.d_content button {
+    padding: 10px 36px;
+}
+   /*discount end*/
+
+   /*pizza section start*/
+.pizza_section {
+    height: 424px;
+}
+.pizza_section p {
+    padding: 0;
+}
+.p_img_1 {
+   width: 68%;
+    top: 245px;
+}
+.p_img_2 {
+    top: 364px;
+    left: 4px;
+    width: 38%;
+}
+.p_img_3 {
+    top: -63px;
+}
+   /*pizza secton end*/
+
+   /*coming soon start*/
+.coming_soon{
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+.cs_single {
+    padding: 10px;
+    text-align: center;
+}
+.cs_single h2 {
+    font-size: 75px;
+}
+.cs_content{
+    padding: 40px 0 0;
+}
+   /*coming soon end*/
+   /*subscribe start*/
+.subscribe {
+    padding: 50px 0 60px 0;
+}
+.btn_1 {
+    width: 50%;
+    font-size: 25px;
+}
+.subscribe p {
+    padding: 25px 0;
+}
+.sub .field input {
+    height: 75%;
+}
+.sub .field .btn_2 {
+    top: 100%;
+    right: 100px;
+}
+   /*subscribe end*/
+
+   /*footer start*/
+footer {
+    padding: 50px 0 0 0;
+}
+footer p {
+    padding-right: 0px;
+}
+   /*footer end*/
+
+
+  
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+.menu {
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    z-index: 1;
+}
+    /*header end*/
+     /*banner start*/
+
+.b_content {
+    padding: 130px 0 60px 0;
+}
+.bc_img a img {
+    width: 25%;
+}
+.b_content h1 {
+   padding: 10px 0 18px 0;
+    font-size: 75px;
+}
+.b_content h2 {
+    padding-bottom: 18px;
+    font-size: 18px;
+}
+.b_content p {
+    padding-top: 22px;
+     padding-right: 0;
+     position: relative;
+    z-index: 5;
+}
+.b_img1 {
+    width: 55%;
+    top: 15%;
+    right: 0;
+}
+.b_img2 {
+    width: 30%;
+    position: absolute;
+    top: 343px;
+    right: 35%;
+}
+.b_img3 {
+    top: 55%;
+    right: -20px
+}
+   /*banner end*/
+   /*new food start*/
+.common_hdig h1 {
+    font-size: 70px;
+}
+.s_content {
+    margin: 27px;
+    padding-top: 0;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 10px 40px rgb(0 0 0 / 30%);
+}
+   /*new food end*/
+    /*about us start*/
+.a_us_title h1 {
+    font-size: 70px;
+}
+   /*about us end*/
+    /*discount start*/
+.discount {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+.d_img {
+    padding-top: 40px;
+}
+.d_content h2 {
+    margin: 35px 0 0 0;
+    padding: 0;
+    font-size: 25px;
+    font-weight: 600;
+}
+.d_content p {
+   padding: 11px 0px 10px 0;
+}
+   /*discount end*/
+
+/*pizza section start*/
+.pizza_section {
+    height: 532px;
+}
+.pizza_section p {
+    padding: 0 60px;
+}
+.p_img_1 {
+   width: 68%;
+    top: 210px;
+}
+.p_img_2 {
+    top: 430px;
+    left: 45px;
+    width: 38%;
+}
+.p_img_3 {
+    top: -63px;
+}
+   /*pizza secton end*/
+
+   /*coming soon start*/
+.coming_soon {
+    padding: 50px 0 70px 0;
+}
+.cs_single {
+    text-align: center;
+}
+.cs_content {
+    padding: 40px 25px 0;
+}
+   /*coming soon end*/
+    /*subscribe start*/
+.subscribe {
+    padding: 80px 0 90px 0;
+}
+.btn_1 {
+    width: 35%;
+}
+   /*subscribe end*/
+
+   /*footer start*/
+footer {
+    padding: 70px 0 0 0;
+}
+footer p {
+    padding-right: 0px;
+}
+   /*footer end*/
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+.menu ul li a {
+    margin: 0 10px;
+}
+	/*header end*/
+   /*banner start*/
+
+.b_content {
+    padding: 130px 0 100px 0;
+}
+.bc_img a img {
+    width: 25%;
+}
+.b_content h1 {
+    padding: 10px 0 10px 0;
+    font-size: 98px;
+}
+.b_content h2 {
+    padding-bottom: 18px;
+    font-size: 18px;
+}
+.b_content p {
+    padding-top: 22px;
+     padding-right: 0;
+     position: relative;
+    z-index: 5;
+}
+.b_img1 {
+    width: 55%;
+    top: 15%;
+    right: 0;
+}
+.b_img2 {
+    width: 30%;
+    position: absolute;
+    top: 439px;
+    right: 40%;
+}
+.b_img3 {
+   width: 45%;
+    top: 64%;
+    right: -40px;
+}
+   /*banner end*/
+   /*new food start*/
+.common_hdig h1 {
+    font-size: 60px;
+}
+.s_content {
+    padding-top: 20px;
+}
+
+   /*new food end*/
+
+   /*about us start*/
+.a_us_title h1 {
+    font-size: 75px;
+}
+   /*about us end*/
+   /*discount start*/
+.d_content h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+    font-weight: 600;
+}
+.d_content p {
+    padding: 20px 50px 25px 0;
+}
+   /*discount end*/
+   /*pizza section start*/
+.pizza_section {
+    height: 670px;
+}
+.pizza_section p {
+    padding: 0 60px;
+}
+.p_img_1 {
+    width: 68%;
+    top: 240px;
+}
+.p_img_2 {
+    top: 515px;
+    left: 60px;
+    width: 44%;
+}
+.p_img_3 {
+    position: absolute;
+    top: -100px;
+}
+   /*pizza secton end*/
+
+   /*coming soon start*/
+.coming_soon {
+    padding: 100px 0 60px 0;
+}
+.cs_single {
+    padding: 0;
+}
+.cs_single h2 {
+    font-size: 65px;
+}
+.cs_content {
+    padding: 60px 0px 0;
+    
+}
+   /*coming soon end*/
+
+   /*subscribe start*/
+.subscribe {
+    padding: 80px 0 90px 0;
+}
+.btn_1 {
+    width: 35%;
+}
+   /*subscribe end*/
+
+   /*footer start*/
+footer{
+    padding: 80px 0 0 0;
+}
+footer p {
+    padding-right: 0px;
+}
+   /*footer end*/
+
+
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*banner start*/
+.b_content {
+    padding-bottom: 90px;
+}
+.b_img1 {
+    width: 48%;
+    position: absolute;
+    top: 20%;
+    right: 24px;
+}
+.b_img2 {
+    position: absolute;
+    right: 40%;
+    bottom: 0%;
+}
+.b_img3 {
+    width: 35%;
+    position: absolute;
+    top: 64%;
+    right: -4%;
+}
+    /*banner end*/
+    /*discount start*/
+.d_content h2 {
+    font-size: 40px;
+}
+.d_content p {
+    padding: 20px 179px 25px 0;
+}
+    /*discoutn end*/
+    /*pizza section start*/
+.pizza_section h1 {
+    font-size: 75px;
+}
+.p_img_2 {
+    position: absolute;
+    top: 714px;
+    left: 52px;
+}
+    /*pizza section end*/
+
+    /*coming soon start*/
+.coming_soon {
+    padding: 100px 0 90px 0;
+}
+.cs_single h2 {
+    font-size: 75px;
+}
+.cs_content {
+    padding: 60px 25px 0;
+}
+    /*coming soon end*/
+
+
+
+
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+     /*pizza section start*/
+.p_img_2 {
+    position: absolute;
+    top: 746px;
+    left: 373px;
+}
+    /*pizza section end*/
+
+
+
+
+
+}
+   
